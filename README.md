@@ -15,11 +15,13 @@
 Hi, I'm Jia. I'm an 18-year-old from New Delhi, India. I'm just a chill girl figuring out how to create cool things on GitHub.
 <details>
 <summary>My top THINGS-TO-RANK</summary>
+
 | Rank |LANGUAGES I KNOW|
-|-----:|----------------|
+|----- |----------------|
 |     1|        C       |
 |     2|       PYTHON   |
 |     3|       JAVA     |
+
 </details>
 
 
